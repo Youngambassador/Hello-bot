@@ -1,0 +1,9 @@
+# My First Python Bot
+My first Python bot built in Termux on Android 📱
+
+## What it does
+A simple Python bot. 
+
+## How to run
+1. Clone the repo
+2. Run: `python bot.py`
